@@ -1,0 +1,44 @@
+[
+  {
+    "postId": "bf581ae4-0166-44e2-b006-5c0eed71fc93",
+    "author": "ashu",
+    "authorId": "a094f062-becf-4880-906d-9ecec0843c9b",
+    "content": "One of the best qoute i ever hear",
+    "image": "http://localhost:3000/upload/20240730_180232.jpg"
+  },
+  {
+    "postId": "c3f879c0-5c2c-4a2b-8982-f89be6929add",
+    "author": "ashu",
+    "authorId": "a094f062-becf-4880-906d-9ecec0843c9b",
+    "content": "Wallpapers",
+    "image": "http://localhost:3000/upload/20240705_113940.jpg"
+  },
+  {
+    "postId": "fd593fba-d5ab-4cbc-b6f0-a869c6871ddf",
+    "author": "hello",
+    "authorId": "d0bd1c65-97c0-4146-aa0d-ea8e9e3e100d",
+    "content": "England",
+    "image": "http://localhost:3000/upload/20240727_210546.jpg"
+  },
+  {
+    "postId": "f4fcb573-ace4-47e6-ae28-02c0c451c676",
+    "author": "peter",
+    "authorId": "afe18608-d84a-4d76-8a71-950639d0c82b",
+    "content": "Spider man",
+    "image": "http://localhost:3000/upload/20240702_205943.jpg"
+  },
+  {
+    "postId": "2b3e29d6-a8e1-4300-8579-e8d36a1122eb",
+    "author": "beka",
+    "authorId": "1f1b63b2-4f3c-413c-bb60-c4c3d4bc1cf9",
+    "content": "Marcus aurlious",
+    "image": "http://localhost:3000/upload/20240730_180317.jpg"
+  },
+  {
+    "postId": "fc709180-aa8f-471c-bdb3-dfebe6fd4ed2",
+    "author": "max",
+    "authorId": "51919fb7-f260-4c70-81cf-ed9cef841501",
+    "content": "What is happing",
+    "image": "http://localhost:3000/upload/20240415_194852.jpg"
+  }
+]
